@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/InterviewApp/static/css/main.b7ae4a2d.css",
-    "main.js": "/InterviewApp/static/js/main.2c39d2c9.js",
-    "static/js/453.4eb0a8e2.chunk.js": "/InterviewApp/static/js/453.4eb0a8e2.chunk.js",
-    "index.html": "/InterviewApp/index.html",
-    "main.b7ae4a2d.css.map": "/InterviewApp/static/css/main.b7ae4a2d.css.map",
-    "main.2c39d2c9.js.map": "/InterviewApp/static/js/main.2c39d2c9.js.map",
-    "453.4eb0a8e2.chunk.js.map": "/InterviewApp/static/js/453.4eb0a8e2.chunk.js.map"
+    "main.css": "/Interview_App/static/css/main.b7ae4a2d.css",
+    "main.js": "/Interview_App/static/js/main.e414da54.js",
+    "static/js/453.4eb0a8e2.chunk.js": "/Interview_App/static/js/453.4eb0a8e2.chunk.js",
+    "index.html": "/Interview_App/index.html",
+    "main.b7ae4a2d.css.map": "/Interview_App/static/css/main.b7ae4a2d.css.map",
+    "main.e414da54.js.map": "/Interview_App/static/js/main.e414da54.js.map",
+    "453.4eb0a8e2.chunk.js.map": "/Interview_App/static/js/453.4eb0a8e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7ae4a2d.css",
-    "static/js/main.2c39d2c9.js"
+    "static/js/main.e414da54.js"
   ]
 }
